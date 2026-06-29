@@ -14,8 +14,8 @@
   "name":"JUGADOR",
   "overriddenProperties":[],
   "parent":{
-    "name":"Blank Pixel Game1",
-    "path":"Blank Pixel Game1.yyp",
+    "name":"sprints",
+    "path":"folders/sprints.yy",
   },
   "parentObjectId":null,
   "persistent":false,
