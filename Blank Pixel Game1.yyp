@@ -29,6 +29,7 @@
     {"id":{"name":"Limite_7","path":"objects/Limite_7/Limite_7.yy",},},
     {"id":{"name":"Limite_8","path":"objects/Limite_8/Limite_8.yy",},},
     {"id":{"name":"Limite_9","path":"objects/Limite_9/Limite_9.yy",},},
+    {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},},
     {"id":{"name":"Puerta_1","path":"objects/Puerta_1/Puerta_1.yy",},},
     {"id":{"name":"Puerta_10","path":"objects/Puerta_10/Puerta_10.yy",},},
     {"id":{"name":"Puerta_2","path":"objects/Puerta_2/Puerta_2.yy",},},
@@ -40,6 +41,7 @@
     {"id":{"name":"Puerta_8","path":"objects/Puerta_8/Puerta_8.yy",},},
     {"id":{"name":"Puerta_9","path":"objects/Puerta_9/Puerta_9.yy",},},
     {"id":{"name":"Puerta","path":"objects/Puerta/Puerta.yy",},},
+    {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"Room1_1","path":"rooms/Room1_1/Room1_1.yy",},},
     {"id":{"name":"Room1_2","path":"rooms/Room1_2/Room1_2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -76,6 +78,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
