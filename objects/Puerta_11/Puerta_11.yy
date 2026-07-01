@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Puerta_6",
+  "%Name":"Puerta_11",
   "eventList":[],
   "managed":true,
-  "name":"Puerta_6",
+  "name":"Puerta_11",
   "overriddenProperties":[],
   "parent":{
     "name":"Blank Pixel Game1",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"Sprite4_6",
-    "path":"sprites/Sprite4_6/Sprite4_6.yy",
+    "name":"Sprite21",
+    "path":"sprites/Sprite21/Sprite21.yy",
   },
   "spriteMaskId":null,
   "visible":true,
