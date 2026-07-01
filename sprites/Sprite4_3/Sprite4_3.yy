@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Blank Pixel Game1",
-    "path":"Blank Pixel Game1.yyp",
+    "name":"sprints",
+    "path":"folders/sprints.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -193,8 +193,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"Blank Pixel Game1",
-    "path":"Blank Pixel Game1.yyp",
+    "name":"room",
+    "path":"folders/room.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

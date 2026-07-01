@@ -10,8 +10,8 @@
   "name":"obj_menu",
   "overriddenProperties":[],
   "parent":{
-    "name":"Blank Pixel Game1",
-    "path":"Blank Pixel Game1.yyp",
+    "name":"objetos",
+    "path":"folders/objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -1,3 +1,12 @@
+draw_sprite_stretched(
+    spr_menu_fondo,
+    0,
+    0,
+    0,
+    display_get_gui_width(),
+    display_get_gui_height()
+);
+
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
 
